@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fawdez.github.io/sitemap/sitemap.xml
